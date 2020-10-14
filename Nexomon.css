@@ -1,0 +1,51 @@
+.outer-div {
+  width: 90%;
+  align-self: center;
+  background-color: #f6cc67;
+  border: 2px double red;
+  border-radius: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.my-bgimg {
+  background-image: url(./Photos/banner.png);
+}
+
+.inner-div {
+    width: 40%;
+    margin: 0;
+    background-color: #f6cc67;
+    border: 2px double red;
+}
+
+.imageSize {
+  width: 70px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.logoSize {
+  width: 75px;
+}
+
+.cruffSize {
+  width: 600px;
+}
+
+.chartSize {
+  width: 500px;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+}
+
+nav-item {
+  width: 70px;
+}
+
+p {
+  font-size: 30pt;
+}
